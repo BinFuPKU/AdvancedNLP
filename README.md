@@ -2,7 +2,7 @@
 
 个人整理nlp基本操作，方便后续快速实现各种模型算法idea：
 
-0.NLPBasic.ipynb：分词、词性标注、句法分析、话题模型（LSA/LDA）、word2vec、爬虫、trie前缀树。
+0.NLPBasic.ipynb：分词、词性标注、句法分析、话题模型（LSA/LDA）、word2vec、爬虫、trie前缀树（典型应用场景如Query Suggestion）等。
 
 1.EntityRelationKG.ipynb：命名实体识别模型（包括CRF、BiLSTM-CRF）和联合识别模型Bert+CasRel、py2neo操作neo4j知识库操作、kg表示学习推理模型TransE等。
 

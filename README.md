@@ -1,6 +1,6 @@
 # AdvancedNLP (ongoing)
 
-个人整理nlp常规操作（已测试）：
+个人整理nlp基本操作，方便后续快速实现各种模型算法idea：
 
 0.NLPBasic.ipynb：分词、词性标注、句法分析、话题模型（LSA/LDA）、word2vec、爬虫、trie前缀树。
 
